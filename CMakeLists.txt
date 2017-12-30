@@ -4,4 +4,4 @@ project(book_cpp_the_examples_and_tasks_part_2)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(book_cpp_the_examples_and_tasks_part_2
-        README.md 1/1.1/main.cpp)
+        README.md 1/1.1/main.cpp 1/1.2/main.cpp)
