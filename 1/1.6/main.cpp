@@ -1,3 +1,3 @@
 #include <iostream>
 
-usingo
+using namespace
