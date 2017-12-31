@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.1/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.10/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o"
+  "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.11/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.2/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.3/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.4/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o"
