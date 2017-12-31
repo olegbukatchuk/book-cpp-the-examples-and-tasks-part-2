@@ -6,7 +6,7 @@ int main() {
     int number,n,result;
 
     cout<<"Enter number = ";
-    cin<<number;
+    cin>>number;
 
     cout<<"Enter n = ";
     cin>>n;
