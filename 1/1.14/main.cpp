@@ -25,7 +25,9 @@ int main() {
     X=R*cos(Phi);
     Y=R*sin(Phi);
 
-    
+    cout<<"The result is:\n";
+    cout<<"Re-part "<<X<<"\n";
+    cout<<"im-part "<<Y<<"\n";
 
     return 0;
 }
