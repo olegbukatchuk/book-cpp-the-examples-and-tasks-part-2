@@ -16,7 +16,11 @@ int main() {
         cout<<"your number is greater!\n";
     } else {
         if (n>m) {
-            cout 
+            cout<<"your number is less!\n";
+        } else {
+            cout<<"your have guessed right!\n";
         }
     }
+
+    return 0;
 }
