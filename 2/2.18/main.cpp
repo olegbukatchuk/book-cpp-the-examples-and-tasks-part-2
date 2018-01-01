@@ -12,4 +12,11 @@ int main() {
     cin>>V;
     cout<<"Enter alpha = ";
     cin>>alpha;
+
+    alpha=alpha*pi/180;
+
+    cout<<"Enter t = ";
+    cin>>t;
+
+    
 }
