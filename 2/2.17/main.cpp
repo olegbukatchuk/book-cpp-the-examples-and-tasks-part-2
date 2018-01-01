@@ -15,4 +15,5 @@ int main() {
         s*=(1-(double)2/(n*(n+1)));
     }
     cout<<"Product is "<<s<<endl;
+    return 0;
 }
