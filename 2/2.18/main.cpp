@@ -28,5 +28,8 @@ int main() {
         u-=g*dt;
     } while ((y>0)&&(n*dt<t));
 
+    cout<<"y = "<<y<<" : ";
+    cout<<(t<sqrt(2*V*sin(alpha)/g)?V*sin(alpha)*t-g*t*t/2:0)<<endl;
+    cout<<"x = "<<x<<" : ";
     
 }
