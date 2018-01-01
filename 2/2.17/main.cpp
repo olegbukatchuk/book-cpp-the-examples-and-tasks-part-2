@@ -14,5 +14,5 @@ int main() {
     for (n=2;n<=N;n++) {
         s*=(1-(double)2/(n*(n+1)));
     }
-    cout<<
+    cout<<""
 }
