@@ -3,5 +3,5 @@
 using namespace std;
 
 int main() {
-    const double g
+    const double g=9.8,
 }
