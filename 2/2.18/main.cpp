@@ -18,5 +18,15 @@ int main() {
     cout<<"Enter t = ";
     cin>>t;
 
+    v=V*cos(alpha);
+    u=V*sin(alpha);
+
+    do {
+        n++;
+        y+=u*dt;
+        x+=v*dt;
+        u-=g*dt;
+    } while ((y>0)&&(n*dt<t));
+
     
 }
