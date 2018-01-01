@@ -9,4 +9,9 @@ int main() {
     double s=1;
 
     cout<<"Enter N = ";
+    cin>>N;
+
+    for (n=2;n<=N;n++) {
+        
+    }
 }
