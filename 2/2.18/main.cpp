@@ -11,4 +11,5 @@ int main() {
     cout<<"Enter V = ";
     cin>>V;
     cout<<"Enter alpha = ";
+    cin>>alpha;
 }
