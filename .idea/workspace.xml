@@ -12,17 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f12cac5-f6d9-4a5d-a7c1-6cc2d21dbec2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/2/2.18/main.cpp" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" />
+      <change beforePath="$PROJECT_DIR$/2/2.18/main.cpp" afterPath="$PROJECT_DIR$/2/2.18/main.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,9 +28,11 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2/2.18/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="95">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -185,12 +177,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514669577931</updated>
-      <workItem from="1514669581134" duration="14233000" />
+      <workItem from="1514669581134" duration="14258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14233000" />
+    <option name="totallyTimeSpent" value="14258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="699" y="0" width="981" height="1050" extended-state="6" />
@@ -530,9 +522,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2/2.18/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
