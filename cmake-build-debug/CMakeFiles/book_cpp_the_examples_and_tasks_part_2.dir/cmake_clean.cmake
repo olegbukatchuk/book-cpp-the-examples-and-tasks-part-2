@@ -34,6 +34,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o"
   "book_cpp_the_examples_and_tasks_part_2.pdb"
   "book_cpp_the_examples_and_tasks_part_2"
 )
