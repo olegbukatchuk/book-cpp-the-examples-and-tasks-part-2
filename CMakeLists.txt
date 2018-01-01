@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(book_cpp_the_examples_and_tasks_part_2
         1/1.1/main.cpp 1/1.2/main.cpp 1/1.3/main.cpp 1/1.4/main.cpp 1/1.5/main.cpp 1/1.6/main.cpp 1/1.7/main.cpp 1/1.8/main.cpp 1/1.9/main.cpp 1/1.10/main.cpp 1/1.11/main.cpp 1/1.12/main.cpp 1/1.13/main.cpp 1/1.14/main.cpp 1/1.15/main.cpp 1/1.16/main.cpp 1/1.17/main.cpp 1/1.18/main.cpp
-        2/2.1/main.cpp 2/2.2/main.cpp 2/2.3/main.cpp 2/2.4/main.cpp 2/2.5/main.cpp 2/2.6/main.cpp 2/2.7/main.cpp 2/2.8/main.cpp 2/2.9/main.cpp 2/2.10/main.cpp 2/2.11/main.cpp 2/2.12/main.cpp 2/2.13/main.cpp 2/2.14/main.cpp)
+        2/2.1/main.cpp 2/2.2/main.cpp 2/2.3/main.cpp 2/2.4/main.cpp 2/2.5/main.cpp 2/2.6/main.cpp 2/2.7/main.cpp 2/2.8/main.cpp 2/2.9/main.cpp 2/2.10/main.cpp 2/2.11/main.cpp 2/2.12/main.cpp 2/2.13/main.cpp 2/2.14/main.cpp 2/2.15/main.cpp)
