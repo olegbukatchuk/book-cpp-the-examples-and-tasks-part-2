@@ -8,5 +8,5 @@ int main() {
     double V,alpha,t,v,u,x=0,y=0;
     int n=0;
 
-    cout<<""
+    cout<<"Enter V = ";o
 }
