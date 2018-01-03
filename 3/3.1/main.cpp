@@ -8,7 +8,7 @@ int main() {
     p=&n;
     q=p;
     (*p)++;
-    
+
     cout<<*q<<"\n";
     cout<<n<<"\n";
     cout<<p<<"\n";
