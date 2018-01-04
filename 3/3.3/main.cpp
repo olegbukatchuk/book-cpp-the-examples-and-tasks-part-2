@@ -9,4 +9,7 @@ int main() {
     n++;
 
     cout<<n<<"\n";
+    cout<<copy<<"\n";
+
+    return 0;
 }
