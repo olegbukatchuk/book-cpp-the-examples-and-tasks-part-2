@@ -6,6 +6,7 @@ int main() {
     int n[10];
 
     for (int i=0;i<10;i++) {
-        
+        *(n+i)=10-i;o
+        cout<<n[i]<<"\n";
     }
 }
