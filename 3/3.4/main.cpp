@@ -7,5 +7,9 @@ int main() {
     int &copy=n;
     p=&n;
     copy=100;
-    
+    (*p)/=10;
+    q=&copy;
+    n++;
+
+    cout<<n<<"\n";
 }
