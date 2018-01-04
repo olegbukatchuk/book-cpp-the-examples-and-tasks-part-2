@@ -1365,6 +1365,33 @@ book_cpp_the_examples_and_tasks_part_2/fast:
 	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.s
 .PHONY : 3/3.7/main.cpp.s
 
+3/3.8/main.o: 3/3.8/main.cpp.o
+
+.PHONY : 3/3.8/main.o
+
+# target to build an object file
+3/3.8/main.cpp.o:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o
+.PHONY : 3/3.8/main.cpp.o
+
+3/3.8/main.i: 3/3.8/main.cpp.i
+
+.PHONY : 3/3.8/main.i
+
+# target to preprocess a source file
+3/3.8/main.cpp.i:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.i
+.PHONY : 3/3.8/main.cpp.i
+
+3/3.8/main.s: 3/3.8/main.cpp.s
+
+.PHONY : 3/3.8/main.s
+
+# target to generate assembly for a file
+3/3.8/main.cpp.s:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.s
+.PHONY : 3/3.8/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1512,6 +1539,9 @@ help:
 	@echo "... 3/3.7/main.o"
 	@echo "... 3/3.7/main.i"
 	@echo "... 3/3.7/main.s"
+	@echo "... 3/3.8/main.o"
+	@echo "... 3/3.8/main.i"
+	@echo "... 3/3.8/main.s"
 .PHONY : help
 
 
