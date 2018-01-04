@@ -8,5 +8,10 @@ int main() {
 
     for (int i=0;i<10;i++) {
         p[i]=1-i;
+        cout<<*(p+i)<<" ";
     }
+
+    cout<<"\n";
+
+    return 0;
 }
