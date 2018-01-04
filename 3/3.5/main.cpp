@@ -10,5 +10,5 @@ int main() {
         cout<<n[i]<<"\n";
     }
 
-    
+    cout<<"\n";
 }
