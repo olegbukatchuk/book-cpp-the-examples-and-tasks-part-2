@@ -12,4 +12,11 @@ int main() {
     n++;
 
     cout<<n<<"\n";
+    cout<<copy<<"\n";
+    cout<<*p<<"\n";
+    cout<<*q<<"\n";
+    cout<<p<<"\n";
+    cout<<q<<"\n";
+
+    return 0;
 }
