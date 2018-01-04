@@ -9,4 +9,6 @@ int main() {
         n[i]=rand()%10;
         cout<<n[i]<<"\n";
     }
+
+    
 }
