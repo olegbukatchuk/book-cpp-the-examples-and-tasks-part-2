@@ -13,5 +13,7 @@ int main() {
         MyArray[i]=rand()%20;
         cout<<MyArray<<" ";
     }
-    
+    for (j=1;j<(m-j);j++) {
+        for ()
+    }
 }
