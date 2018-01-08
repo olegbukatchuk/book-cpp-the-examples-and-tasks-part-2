@@ -10,6 +10,8 @@ int main() {
     cout<<"Become:\n";
 
     for (i=0;i<m;i++) {
-        
+        MyArray[i]=rand()%20;
+        cout<<MyArray<<" ";
     }
+    
 }
