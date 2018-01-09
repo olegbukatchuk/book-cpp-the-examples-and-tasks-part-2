@@ -13,9 +13,13 @@ int main() {
 
     for (i=0;i<n;i++)
         cin>>xi[i];
+
     cout<<"p: ";
     for (i=0;i<n;i++) {
         cin>>p[i];
-        
+        Mxi+=p[i]*xi[i];
     }
+    cout<<"Mxi = "<<Mxi<<endl;
+
+    return 0;
 }
