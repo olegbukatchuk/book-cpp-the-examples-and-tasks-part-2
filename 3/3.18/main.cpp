@@ -17,5 +17,23 @@ int main() {
     for (i=0;i<n;i++)
         cin>>y[i];
 
+    for (i=0;i<n;i++) {
+        Sx+=x[i];
+        Sy+=y[i];
+        Sxy+=x[i]*y[i];
+        Sxx+=x[i]*x[i];
+    }
+
+    Sx/=n;
+    Sy/=n;
+    Sxy/=n;
+    Sxx/=n;
     
+    a=(Sx*Sy-Sxy)/(Sx*Sx-Sxx);
+    b=(Sxy-a*Sxx)/Sx;
+
+    cout<<"a = "<<a<<endl;
+    cout<<"b = "<<b<<endl;
+
+    return 0;
 }
