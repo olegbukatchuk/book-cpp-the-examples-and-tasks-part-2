@@ -8,3 +8,10 @@ int msum(int n) {
     return s;
 }
 
+int main() {
+    int n;
+    cout<<"Enter n = ";
+    cin>>n;
+    cout<<"Sum is "<<msum(n)<<"\n";
+    return 0;
+}
