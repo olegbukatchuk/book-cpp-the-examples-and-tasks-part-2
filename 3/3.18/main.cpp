@@ -28,7 +28,7 @@ int main() {
     Sy/=n;
     Sxy/=n;
     Sxx/=n;
-    
+
     a=(Sx*Sy-Sxy)/(Sx*Sx-Sxx);
     b=(Sxy-a*Sxx)/Sx;
 
