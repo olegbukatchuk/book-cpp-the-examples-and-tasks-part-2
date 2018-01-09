@@ -227,9 +227,6 @@
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.18/main.cpp">
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
-		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.19/main.cpp">
-			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
-		</Unit>
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.2/main.cpp">
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
@@ -252,6 +249,12 @@
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.9/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp">
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/CMakeLists.txt">
