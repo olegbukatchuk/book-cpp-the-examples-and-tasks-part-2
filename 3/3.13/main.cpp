@@ -14,6 +14,11 @@ int main() {
         cout<<MyArray<<" ";
     }
     for (j=1;j<(m-j);j++) {
-        for ()
+        for (i=0;i<m-j;i++) {
+            if (MyArray[i]>MyArray[i+1]) {
+                s=MyArray[i+1];
+                MyArray[i+1]=MyArray[i];
+            }
+        }
     }
 }
