@@ -64,6 +64,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.3/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o"
+  "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.4/main.cpp" "/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
