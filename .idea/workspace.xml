@@ -12,7 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f12cac5-f6d9-4a5d-a7c1-6cc2d21dbec2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/4/4.5/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4/4.6/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4/4.7/main.cpp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
@@ -43,8 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1/1.13/main.cpp" />
-        <option value="$PROJECT_DIR$/1/1.14/main.cpp" />
         <option value="$PROJECT_DIR$/1/1.15/main.cpp" />
         <option value="$PROJECT_DIR$/1/1.16/main.cpp" />
         <option value="$PROJECT_DIR$/1/1.17/main.cpp" />
@@ -94,6 +93,8 @@
         <option value="$PROJECT_DIR$/4/4.3/main.cpp" />
         <option value="$PROJECT_DIR$/4/4.4/main.cpp" />
         <option value="$PROJECT_DIR$/4/4.5/main.cpp" />
+        <option value="$PROJECT_DIR$/4/4.6/main.cpp" />
+        <option value="$PROJECT_DIR$/4/4.7/main.cpp" />
       </list>
     </option>
   </component>
@@ -136,12 +137,6 @@
               <item name="book_cpp_the_examples_and_tasks_part_2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="book-cpp-the-examples-and-tasks-part-2" type="462c0819:PsiDirectoryNode" />
               <item name="4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="book_cpp_the_examples_and_tasks_part_2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="book-cpp-the-examples-and-tasks-part-2" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
-              <item name="4.5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,12 +192,12 @@
       <updated>1514669577931</updated>
       <workItem from="1514669581134" duration="17166000" />
       <workItem from="1514926561274" duration="14446000" />
-      <workItem from="1515523499549" duration="1249000" />
+      <workItem from="1515523499549" duration="1997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32861000" />
+    <option name="totallyTimeSpent" value="33609000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="0" width="1018" height="1050" extended-state="0" />
@@ -237,20 +232,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1/1.13/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1/1.14/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1/1.15/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -596,6 +577,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.6/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.7/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
