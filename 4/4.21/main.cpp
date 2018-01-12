@@ -26,7 +26,7 @@ int main() {
     showArgs(x);
     showArgs(x,y);
     showArgs(s);
-    
+
     cout<<"Int-number "<<showArgs(n)<<endl;
 
     return 0;
