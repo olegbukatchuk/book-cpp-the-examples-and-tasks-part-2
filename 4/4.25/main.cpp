@@ -5,7 +5,7 @@ using namespace std;
 
 const int N=100;
 
-double sh(double z) {
+double sinh(double z) {
     int n;
     double s=z,q=z;
 
@@ -23,11 +23,11 @@ int main() {
     cin>>x;
 
     for (i=1;i<=m;i++) {
-        cout<<i<<" : sh("<<x<<") = "<<sh(x,i)<<endl;
+        cout<<i<<" : sin("<<x<<") = "<<sin(x)<<endl;
     }
 
     cout<<"----------------------------------\n";
-    cout<<N<<": sh("<<x<<") = "<<sh(x)<<endl;
+    cout<<N<<": sinh("<<x<<") = "<<sinh(x)<<endl;
     cout<<"Test value: "<<sinh(x)<<endl;
 
     return 0;
