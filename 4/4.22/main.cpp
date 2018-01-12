@@ -3,7 +3,7 @@
 using namespace std;
 
 void ndiv(double x,double y) {
-    cout<<"x\y="<<x/y<<endl;
+    cout<<"x/y="<<x/y<<endl;
 }
 
 int main() {
