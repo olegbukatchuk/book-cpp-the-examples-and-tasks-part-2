@@ -2001,6 +2001,30 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o.provides
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o.provides.build: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o
 
 
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o: ../4/4.25/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp
+
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.i
+
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.s
+
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.requires
+
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.provides: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.provides.build
+.PHONY : CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.provides
+
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.provides.build: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o
+
+
 # Object files for target book_cpp_the_examples_and_tasks_part_2
 book_cpp_the_examples_and_tasks_part_2_OBJECTS = \
 "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o" \
@@ -2083,7 +2107,8 @@ book_cpp_the_examples_and_tasks_part_2_OBJECTS = \
 "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o" \
 "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o" \
 "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o" \
-"CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o"
+"CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o" \
+"CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o"
 
 # External object files for target book_cpp_the_examples_and_tasks_part_2
 book_cpp_the_examples_and_tasks_part_2_EXTERNAL_OBJECTS =
@@ -2169,9 +2194,10 @@ book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tas
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o
+book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Linking CXX executable book_cpp_the_examples_and_tasks_part_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Linking CXX executable book_cpp_the_examples_and_tasks_part_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2260,6 +2286,7 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/requires: CMakeFiles/book_
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/requires: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o.requires
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/requires: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o.requires
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/requires: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o.requires
+CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/requires: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.requires
 
 .PHONY : CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/requires
 
