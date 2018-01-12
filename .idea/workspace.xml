@@ -12,7 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f12cac5-f6d9-4a5d-a7c1-6cc2d21dbec2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/4/4.25/main.cpp" afterPath="$PROJECT_DIR$/4/4.25/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4/4.26/main.cpp" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,13 +37,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4/4.25/main.cpp">
+        <entry file="file://$PROJECT_DIR$/4/4.26/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,7 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2/2.15/main.cpp" />
         <option value="$PROJECT_DIR$/2/2.16/main.cpp" />
         <option value="$PROJECT_DIR$/2/2.17/main.cpp" />
         <option value="$PROJECT_DIR$/2/2.18/main.cpp" />
@@ -96,6 +104,7 @@
         <option value="$PROJECT_DIR$/4/4.23/main.cpp" />
         <option value="$PROJECT_DIR$/4/4.24/main.cpp" />
         <option value="$PROJECT_DIR$/4/4.25/main.cpp" />
+        <option value="$PROJECT_DIR$/4/4.26/main.cpp" />
       </list>
     </option>
   </component>
@@ -143,7 +152,7 @@
               <item name="book_cpp_the_examples_and_tasks_part_2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="book-cpp-the-examples-and-tasks-part-2" type="462c0819:PsiDirectoryNode" />
               <item name="4" type="462c0819:PsiDirectoryNode" />
-              <item name="4.25" type="462c0819:PsiDirectoryNode" />
+              <item name="4.26" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,12 +209,12 @@
       <workItem from="1514669581134" duration="17166000" />
       <workItem from="1514926561274" duration="14446000" />
       <workItem from="1515523499549" duration="4433000" />
-      <workItem from="1515705434770" duration="7700000" />
+      <workItem from="1515705434770" duration="8197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43745000" />
+    <option name="totallyTimeSpent" value="44242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="0" width="1018" height="1050" extended-state="0" />
@@ -249,13 +258,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2/2.16/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2/2.17/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -615,11 +617,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4/4.25/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4.26/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
