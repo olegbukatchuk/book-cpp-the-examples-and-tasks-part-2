@@ -16,3 +16,9 @@ int main() {
     showXYZ(9);
     return 0;
 }
+
+void showXYZ(int x,int y,int z) {
+    cout<<"x = "<<x<<" ";
+    cout<<"y = "<<y<<" ";
+    cout<<"z = "<<z<<endl;
+}
