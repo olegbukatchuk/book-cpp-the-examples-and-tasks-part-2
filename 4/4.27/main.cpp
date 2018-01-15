@@ -33,4 +33,10 @@ int main() {
 
     cout<<"error: ";
     cin>>eps;
+
+    x=FindRoot(F,a,b,eps);
+
+    cout<<"x = "<<x<<endl;
+
+    return 0;
 }
