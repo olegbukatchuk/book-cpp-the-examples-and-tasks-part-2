@@ -4,7 +4,8 @@ using namespace std;
 
 void ShowStr(char *str) {
     if (*str!='i'&&*str) ShowStr(str+1);
-    else {cout<<"I didn't find any 'i'!\n"; exit(0);}
+    else if (*str=='i') return;
+        else {cout<<"I didn't find any 'i'!\n"; exit(0);}
     cout<<*str;
 }
 
