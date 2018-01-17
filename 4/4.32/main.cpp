@@ -69,5 +69,17 @@ void show(double *x,int n) {
 int main() {
     const int N=10;
     double z[N];
+
     fill(z,N);
+    cout<<"Base data:\n";
+
+    show(z,N);
+    cout<<"Base statistics:\n";
+
+    ShowStat(z,N);
+    cout<<"Small statistics:\n";
+
+    ShowStat(z,3,N-2);
+
+    return 0;
 }
