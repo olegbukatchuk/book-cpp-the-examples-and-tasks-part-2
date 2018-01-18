@@ -88,6 +88,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/main.cpp.o"
   "book_cpp_the_examples_and_tasks_part_2.pdb"
   "book_cpp_the_examples_and_tasks_part_2"
 )
