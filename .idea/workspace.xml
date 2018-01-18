@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/4/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -196,12 +196,12 @@
       <workItem from="1515523499549" duration="4433000" />
       <workItem from="1515705434770" duration="8379000" />
       <workItem from="1515870862274" duration="139000" />
-      <workItem from="1516018248006" duration="8403000" />
+      <workItem from="1516018248006" duration="8672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52966000" />
+    <option name="totallyTimeSpent" value="53235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="0" width="1018" height="1050" extended-state="0" />
@@ -612,7 +612,7 @@
     <entry file="file://$PROJECT_DIR$/4/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
