@@ -31,6 +31,12 @@ void trans(double A[N][N]) {
 void fill(double A[N][N]) {
     int i,j;
     for(i=0;i<N;i++) {
-        
+        for(j=0;j<N;j++) {
+            A[i][j]=rand()%10;
+        }
     }
+}
+
+void show(double A[N][N]) {
+    
 }
