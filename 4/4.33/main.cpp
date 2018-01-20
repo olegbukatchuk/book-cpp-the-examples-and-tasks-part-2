@@ -28,3 +28,6 @@ void trans(double A[N][N]) {
     }
 }
 
+void fill(double A[N][N]) {
+    
+}
