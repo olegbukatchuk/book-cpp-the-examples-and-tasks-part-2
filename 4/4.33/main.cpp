@@ -53,5 +53,16 @@ int main() {
     show(A);
 
     cout<<"After transformation:\n";
-    
+    trans(A,B);
+    show(B);
+
+    cout<<"Initial matrix:\n";
+    fill(A);
+    show(A);
+
+    cout<<"After transform:\n";
+    trans(A);
+    show(A);
+
+    return 0;
 }
