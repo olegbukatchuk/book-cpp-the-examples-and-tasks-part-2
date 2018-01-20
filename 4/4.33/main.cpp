@@ -46,3 +46,6 @@ void show(double A[N][N]) {
     }
 }
 
+int main() {
+    o
+}
