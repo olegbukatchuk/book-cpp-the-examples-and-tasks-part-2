@@ -29,5 +29,6 @@ void trans(double A[N][N]) {
 }
 
 void fill(double A[N][N]) {
+    int i,j;
     
 }
