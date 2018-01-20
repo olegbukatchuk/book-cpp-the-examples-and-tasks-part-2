@@ -11,5 +11,7 @@ double avr(double *x,int n) {
     return s;
 }
 
-
+double avr(double *x,int n1,int n2) {
+    
+}
 
