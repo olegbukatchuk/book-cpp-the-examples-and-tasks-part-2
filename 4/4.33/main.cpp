@@ -47,5 +47,11 @@ void show(double A[N][N]) {
 }
 
 int main() {
-    o
+    double A[N][N],B[N][N];
+    cout<<"Initial matrix:\n";
+    fill(A);
+    show(A);
+
+    cout<<"After transformation:\n";
+    
 }
