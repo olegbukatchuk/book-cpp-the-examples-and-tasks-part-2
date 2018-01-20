@@ -38,5 +38,8 @@ void fill(double A[N][N]) {
 }
 
 void show(double A[N][N]) {
-    
+    int i,j;
+    for(i=0;i<N;i++) {
+        for()
+    }
 }
