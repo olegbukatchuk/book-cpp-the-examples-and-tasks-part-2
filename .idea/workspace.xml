@@ -11,20 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f12cac5-f6d9-4a5d-a7c1-6cc2d21dbec2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/5/5.4/main.cpp" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" />
-    </list>
+    <list default="true" id="9f12cac5-f6d9-4a5d-a7c1-6cc2d21dbec2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -213,12 +200,12 @@
       <workItem from="1515523499549" duration="4433000" />
       <workItem from="1515705434770" duration="8379000" />
       <workItem from="1515870862274" duration="139000" />
-      <workItem from="1516018248006" duration="12679000" />
+      <workItem from="1516018248006" duration="12684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57242000" />
+    <option name="totallyTimeSpent" value="57247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="0" width="1018" height="1050" extended-state="0" />
