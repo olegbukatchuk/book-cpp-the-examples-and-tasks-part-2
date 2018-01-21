@@ -1,4 +1,12 @@
-//
-// Created by Oleg Bukatchuk on 1/21/18.
-//
+#include <iostream>
+using namespace std;
 
+int main() {
+    char str[100];
+
+    cout<<"Enter your text, please: ";
+    cin>>str;
+    cout<<"Your text is: "<<str<<endl;
+
+    return 0;
+}
