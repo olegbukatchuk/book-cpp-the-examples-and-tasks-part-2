@@ -2634,6 +2634,33 @@ book_cpp_the_examples_and_tasks_part_2/fast:
 	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.s
 .PHONY : 5/5.11/main.cpp.s
 
+5/5.12/main.o: 5/5.12/main.cpp.o
+
+.PHONY : 5/5.12/main.o
+
+# target to build an object file
+5/5.12/main.cpp.o:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o
+.PHONY : 5/5.12/main.cpp.o
+
+5/5.12/main.i: 5/5.12/main.cpp.i
+
+.PHONY : 5/5.12/main.i
+
+# target to preprocess a source file
+5/5.12/main.cpp.i:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.i
+.PHONY : 5/5.12/main.cpp.i
+
+5/5.12/main.s: 5/5.12/main.cpp.s
+
+.PHONY : 5/5.12/main.s
+
+# target to generate assembly for a file
+5/5.12/main.cpp.s:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.s
+.PHONY : 5/5.12/main.cpp.s
+
 5/5.2/main.o: 5/5.2/main.cpp.o
 
 .PHONY : 5/5.2/main.o
@@ -3138,6 +3165,9 @@ help:
 	@echo "... 5/5.11/main.o"
 	@echo "... 5/5.11/main.i"
 	@echo "... 5/5.11/main.s"
+	@echo "... 5/5.12/main.o"
+	@echo "... 5/5.12/main.i"
+	@echo "... 5/5.12/main.s"
 	@echo "... 5/5.2/main.o"
 	@echo "... 5/5.2/main.i"
 	@echo "... 5/5.2/main.s"
