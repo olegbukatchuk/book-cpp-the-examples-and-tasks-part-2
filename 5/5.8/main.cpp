@@ -13,7 +13,8 @@ int main() {
     gets(str1);
 
     n=atoi(str1)/2;
-    cout<<"Enter a double-string";
+    cout<<"n= "<<n<<endl;
+    cout<<"Enter a double-string: ";
     gets(str2);
 
     x=atof(str2)+2;
