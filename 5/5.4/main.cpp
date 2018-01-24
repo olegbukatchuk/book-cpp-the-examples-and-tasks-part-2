@@ -8,7 +8,7 @@ int main() {
     char str[20];
 
     for(i=0;i<n;i++) {
-        str[i]='A'+1;
+        str[i]='A'+i;
         cout<<str[i];
     }
 
@@ -19,6 +19,9 @@ int main() {
 
     cout<<str<<endl;
 
-    for()
+    for(i=0;i<n;i++)
+        cout<<str[i];
+    cout<<endl;
 
+    return 0;
 }
