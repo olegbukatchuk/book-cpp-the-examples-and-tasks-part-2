@@ -124,12 +124,6 @@
               <item name="book-cpp-the-examples-and-tasks-part-2" type="462c0819:PsiDirectoryNode" />
               <item name="5" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="book_cpp_the_examples_and_tasks_part_2" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="book-cpp-the-examples-and-tasks-part-2" type="462c0819:PsiDirectoryNode" />
-              <item name="5" type="462c0819:PsiDirectoryNode" />
-              <item name="5.15" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -188,12 +182,12 @@
       <workItem from="1515523499549" duration="4433000" />
       <workItem from="1515705434770" duration="8379000" />
       <workItem from="1515870862274" duration="139000" />
-      <workItem from="1516018248006" duration="18964000" />
+      <workItem from="1516018248006" duration="19000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63527000" />
+    <option name="totallyTimeSpent" value="63563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="0" width="1018" height="1050" extended-state="0" />
