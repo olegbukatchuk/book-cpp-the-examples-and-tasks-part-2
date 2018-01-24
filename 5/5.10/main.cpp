@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     char *p,*q;
     p="Hello, World!";
-    q="Hello, World!"+7;
+    q="Hello, World!";
 
     cout<<p<<endl;
     cout<<q<<endl;
