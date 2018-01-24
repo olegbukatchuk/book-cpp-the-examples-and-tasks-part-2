@@ -8,5 +8,16 @@ int main() {
     double x;
     char str1[20];
     char str2[20];
-    cout
+
+    cout<<"Enter a int-string: ";
+    gets(str1);
+
+    n=atoi(str1)/2;
+    cout<<"Enter a double-string";
+    gets(str2);
+
+    x=atof(str2)+2;
+    cout<<"x= "<<x<<endl;
+
+    return 0;
 }
