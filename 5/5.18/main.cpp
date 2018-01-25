@@ -37,3 +37,6 @@ int findWord(char *s1,char *s2) {
     return 0;
 }
 
+void encoding(char s1[4][100],char *s2,int *p,int n) {
+    
+}
