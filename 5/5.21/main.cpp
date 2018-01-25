@@ -41,5 +41,5 @@ int main() {
         cout<<N*i/5<<" : "<<MyCos(a,N*i/5)<<" : "<<(1-MyCos(a,N*i/5)/cos(x))*100<<"%\n";
     cout<<"cos(x) = "<<cos(x)<<endl;
 
-    return 0;
+    return 0;1
 }
