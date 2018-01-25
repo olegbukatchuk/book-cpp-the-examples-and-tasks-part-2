@@ -21,5 +21,10 @@ int main() {
     ivanov.chem=3;
     ivanov.maths=3;
 
-    strcpy(petrovo)
+    strcpy(petrov.name,"Igor Petrov");
+    petrov.phys=5;
+    petrov.chem=4;
+    petrov.maths=4;
+
+    strcpy(o)
 }
