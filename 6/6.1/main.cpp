@@ -32,10 +32,14 @@ int main() {
     sidorov.maths=3;
 
     Exams LastYear,ThisYear;
+
     LastYear.chem=4.33333;
     LastYear.phys=3.66667;
     LastYear.maths=3.33333;
+
     ThisYear.chem=(double)(ivanov.chem+petrov.chem+sidorov.chem)/3;
     ThisYear.phys=(double)(ivanov.phys+petrov.phys+sidorov.phys)/3;
-    ThisYear.chem=(double)(ivanov.chem+petrov.chem+sidorov.chem)/3;
+    ThisYear.maths=(double)(ivanov.maths+petrov.maths+sidorov.maths)/3;
+
+    
 }
