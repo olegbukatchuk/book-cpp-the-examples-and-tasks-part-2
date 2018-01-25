@@ -38,5 +38,22 @@ int findWord(char *s1,char *s2) {
 }
 
 void encoding(char s1[4][100],char *s2,int *p,int n) {
-    
+    int pos;
+    char s[50];
+    int i,j;
+    for(i=1;i<=n/2;i++) {
+        getWord(s2,s,i);
+        for(j=0;j<4;j++) {
+            pos=findWord(s1[j],s);
+            if(pos) {
+                p[2*i-2]=j+1;
+                p[2*i-1]=pos;
+                break;
+            }
+        }
+    }
+}
+
+int main() {
+    int n,i;
 }
