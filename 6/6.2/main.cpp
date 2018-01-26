@@ -34,6 +34,7 @@ int main() {
 
         for(int i=0;i<n;i++) {
             if(!strcmp(students[i].name,s)) {
+                state=false;
                 
             }
         }
