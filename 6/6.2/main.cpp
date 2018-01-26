@@ -1,4 +1,14 @@
-//
-// Created by Oleg Bukatchuk on 1/26/18.
-//
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+#include <cstdlib>
+using namespace std;
 
+struct Marks {
+    char name[80];
+    int phys;
+    int chem;
+    int maths;
+};
+
+o
