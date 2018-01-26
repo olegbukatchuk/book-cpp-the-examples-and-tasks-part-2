@@ -27,5 +27,18 @@ int main() {
     cout<<"Value n= ";
     cin>>n;
 
-    for()
+    for(i=1;i<n;i++) {
+        cout<<"Value m= ";
+        cin>>q1->m;
+        q2=new DList;
+        q1->p=q2;
+        q1=q2;
+    }
+    cout<<"Value m= ";
+    cin>>q1->m;
+    q1->p=q0;
+
+    do {
+        cout<<"Value "
+    }
 }
