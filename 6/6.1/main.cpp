@@ -48,5 +48,5 @@ int main() {
     cout<<endl;
     cout<<"This year marks:"<<endl;
     cout<<"Physics "<<ThisYear.phys<<endl;
-    o
+    cout<<"Chemistry "<<ThisYear.chem<<endl;
 }
