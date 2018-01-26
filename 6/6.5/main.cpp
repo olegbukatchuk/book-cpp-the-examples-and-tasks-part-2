@@ -39,6 +39,17 @@ int main() {
     q1->p=q0;
 
     do {
-        cout<<"Value "
-    }
+        cout<<"Value for index k= ";
+        cin>>k;
+
+        if(!k) {
+            for(i=1;i<n;i++) {
+                q1=q2->p;
+                delete q2;
+                q2=q1;
+            }
+            return 0;
+        }
+        getm(k,q0);
+    } while(true);
 }
