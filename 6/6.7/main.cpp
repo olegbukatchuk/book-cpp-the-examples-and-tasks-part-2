@@ -16,5 +16,6 @@ void show(nums a) {
 int main() {
     nums un;
     un.m=1;
+    show(un);
     
 }
