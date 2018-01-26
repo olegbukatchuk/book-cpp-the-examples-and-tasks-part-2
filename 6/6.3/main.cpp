@@ -26,4 +26,29 @@ void set_all(Marks *str,int m) {
 void get(Marks *str,int m) {
     bool state;
     char s[80];
+
+    do {
+        cout<<"What is the student name? ";
+        gets(s);
+
+        if(!strcmp(s,"exit")) return;
+        state=true;
+
+        for(int i=0;i<m;i++) {
+            if(!strcmp(str[i].name,s)) {
+                state=false;
+                cout<<"Physiscs: "<<str[i].phys<<endl;
+                cout<<"Chemistry: "<<str[i].chem<<endl;
+                cout<<"Mathematics: "<<str[i].maths<<endl;
+                break;
+            }
+        }
+
+        if(state) cout<<"There is no student with such name\n";
+    } while (true);
+}
+
+int main() {
+    const int n=3;
+    Marks students[n];
 }
