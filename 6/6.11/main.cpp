@@ -25,5 +25,11 @@ BinTree *MakeTree(int N) {
 }
 
 int main() {
+    BinTree *q;
+    q=MakeTree(4);
+
+    cout<<"Elements in tree: "<<Count<<endl;
+
+    cout<<q->n<<endl;
     
 }
