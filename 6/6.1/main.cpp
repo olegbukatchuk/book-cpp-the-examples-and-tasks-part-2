@@ -44,5 +44,6 @@ int main() {
     cout<<"Last year marks:"<<endl;
     cout<<"Physics "<<LastYear.phys<<endl;
     cout<<"Chemistry "<<LastYear.chem<<endl;
+    cout<<"Mathemathics "<<LastYear.maths<<endl;
     
 }
