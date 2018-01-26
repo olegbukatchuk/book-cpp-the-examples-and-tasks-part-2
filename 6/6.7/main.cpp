@@ -15,7 +15,21 @@ void show(nums a) {
 
 int main() {
     nums un;
+
     un.m=1;
     show(un);
-    
+
+    un.m=32767;
+    show(un);
+
+    un.m=65535;
+    show(un);
+
+    un.m=-1;
+    show(un);
+
+    un.m=-65536;
+    show(un);
+
+    return 0;
 }
