@@ -49,4 +49,7 @@ int main() {
     cout<<"This year marks:"<<endl;
     cout<<"Physics "<<ThisYear.phys<<endl;
     cout<<"Chemistry "<<ThisYear.chem<<endl;
+    cout<<"Mathematics "<<ThisYear.maths<<endl;
+
+    return 0;
 }
