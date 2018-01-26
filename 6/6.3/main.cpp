@@ -51,4 +51,8 @@ void get(Marks *str,int m) {
 int main() {
     const int n=3;
     Marks students[n];
+    set_all(students,n);
+    get(students,n);
+
+    return 0;
 }
