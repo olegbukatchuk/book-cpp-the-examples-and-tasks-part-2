@@ -42,6 +42,6 @@ int main() {
             }
         }
 
-        
-    }
+        if(state) cout<<"There is no student with such name\n";
+    } while (true);
 }
