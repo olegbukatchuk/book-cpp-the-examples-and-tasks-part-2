@@ -11,3 +11,7 @@ struct Marks {
     int maths;
 };
 
+void set_one(Marks &str) {
+    cout<<("Student name: ");
+    gets(str.name);
+}
