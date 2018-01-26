@@ -35,7 +35,10 @@ int main() {
         for(int i=0;i<n;i++) {
             if(!strcmp(students[i].name,s)) {
                 state=false;
-                
+                cout<<"Physics: "<<students[i].phys<<endl;
+                cout<<"Chemistry: "<<students[i].chem<<endl;
+                cout<<"Mathematics: "<<students[i].maths<<endl;
+                break;
             }
         }
     }
