@@ -9,4 +9,12 @@ union nums {
 
 void show(nums a) {
     cout<<"n = "<<a.n<<endl;
+    cout<<"m = "<<a.m<<endl;
+    cout<<endl;
+}
+
+int main() {
+    nums un;
+    un.m=1;
+    
 }
