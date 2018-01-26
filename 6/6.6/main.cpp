@@ -15,5 +15,6 @@ int main() {
     str.n=str.m%4-2;
     cout<<"state = "<<str.state<<endl;
     cout<<"n ="<<str.n<<endl;
-    
+
+    return 0;
 }
