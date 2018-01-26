@@ -41,5 +41,6 @@ int main() {
     ThisYear.phys=(double)(ivanov.phys+petrov.phys+sidorov.phys)/3;
     ThisYear.maths=(double)(ivanov.maths+petrov.maths+sidorov.maths)/3;
 
+    cout<<"Last year marks:"<<endl;
     
 }
