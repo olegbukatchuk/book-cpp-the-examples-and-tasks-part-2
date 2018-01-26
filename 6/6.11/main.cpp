@@ -23,3 +23,7 @@ BinTree *MakeTree(int N) {
     }
     return p;
 }
+
+int main() {
+    
+}
