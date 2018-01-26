@@ -45,5 +45,6 @@ int main() {
     cout<<"Physics "<<LastYear.phys<<endl;
     cout<<"Chemistry "<<LastYear.chem<<endl;
     cout<<"Mathemathics "<<LastYear.maths<<endl;
+    cout<<endl;
     
 }
