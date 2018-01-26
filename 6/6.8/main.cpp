@@ -7,5 +7,6 @@ int main() {
     car=green;
     bus=yellow;
     cout<<"Car is "<<car<<" and bus is "<<bus<<endl;
-    
+
+    return 0;
 }
