@@ -10,6 +10,5 @@ void getm(int k,DList *q) {
     int i;
     DList *t,*t1;
     t=q;
-
     
 }
