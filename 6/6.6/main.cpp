@@ -8,3 +8,11 @@ struct BitFields {
     int m;
 } str;
 
+int main() {
+    cout<<"Enter a number: ";
+    cin>>str.m;
+    str.state=str.m%2;
+    str.n=str.m%4-2;
+    cout<<"state = "<<str.state<<endl;
+    cout<<"n ="
+}
