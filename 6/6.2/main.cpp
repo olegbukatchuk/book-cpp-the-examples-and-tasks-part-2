@@ -24,4 +24,18 @@ int main() {
         students[i].chem=3+rand()%3;
         students[i].maths=3+rand()%3;
     }
+
+    do {
+        cout<<"What is the student name? ";
+        gets(s);
+
+        if(!strcmp(s,"exit")) return 0;
+        state=true;
+
+        for(int i=0;i<n;i++) {
+            if(!strcmp(students[i].name,s)) {
+                
+            }
+        }
+    }
 }
