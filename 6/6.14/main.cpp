@@ -8,3 +8,6 @@ struct Point {
     double z;
 };
 
+double dist(Point A,Point B) {
+    
+}
