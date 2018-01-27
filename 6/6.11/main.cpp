@@ -31,5 +31,12 @@ int main() {
     cout<<"Elements in tree: "<<Count<<endl;
 
     cout<<q->n<<endl;
-    
+    cout<<q->p1->n<<endl;
+    cout<<q->p1->p1->p1->n<<endl;
+    cout<<q->p1->p2->p1->n<<endl;
+    cout<<q->p2->n<<endl;
+    cout<<q->p2->p1->n<<endl;
+    cout<<q->p2->p2->p2->n<<endl;
+
+    return 0;
 }
