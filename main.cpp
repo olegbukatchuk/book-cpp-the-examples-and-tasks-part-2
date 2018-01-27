@@ -8,6 +8,10 @@ public:
 };
 
 int main() {
-    o
+    SimpleClass MyObj;
+    MyObj.number=5;
+    cout<<"Object field value is "<<MyObj.number<<"\n";
+
+    return 0;
 }
 
