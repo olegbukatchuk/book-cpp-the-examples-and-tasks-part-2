@@ -8,5 +8,11 @@ struct Compl {
 };
 
 Compl ComplExp(Compl z) {
-    
+    Compl tmp;
+
+    tmp.Re=exp(z.Re)*cos(z.Im);
+    tmp.Im=exp(z.Re)*sin(z.Im);
+
+    return tmp;
 }
+
