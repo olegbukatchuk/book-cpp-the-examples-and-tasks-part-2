@@ -14,8 +14,8 @@ struct ComplTrig {
 
 ComplAlg sum(ComplAlg zl,ComplAlg z2) {
     ComplAlg z;
-    z.Re=z1.Re+z2.Re;
-    z.Im=z1.Im+z2.Im;
+    z.Re=z.Re+z2.Re;
+    z.Im=z.Im+z2.Im;
     return z;
 }
 
