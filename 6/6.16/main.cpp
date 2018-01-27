@@ -13,11 +13,19 @@ void roots(Polynom p) {
     D=p.b*p.b-4*p.a*p.c;
 
     if(p.a==0) {
-        if(p.b!=0) cout<<"x = "p.c/p.b<<endl;
-        else if(p.c==0) cout<<"x is any number\n";
-        else cout<<"There are no roots!\n";
+        if(p.b!=0) {
+            cout<<"x = "<<p.c/p.b<<endl;
+        }
+        else if(p.c==0) {
+            cout<<"x is any number\n";
+        }
+        else {
+            cout<<"There are no roots!\n";
+        }
     } else {
-        if(D==0) cout<<"The only root is "<<-p.b/2/p.a<<endl;
+        if(D==0) {
+            cout<<"The only root is "<<-p.b/2/p.a<<endl;
+        }
         else if(D>0) {
             x1=(-p.b+sqrt(D))/2/p.a;
             x2=(-p.b-sqrt(D))/2/p.a;
