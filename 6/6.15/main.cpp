@@ -22,5 +22,16 @@ void cross(Line A,Line B) {
 }
 
 int main() {
-    
+    Line L1,L2,L3,L4;
+
+    L1.a=2;  L1.b=-1; L1.c=0;
+    L2.a=6;  L2.b=-3; L2.c=6;
+    L3.a=10; L3.b=-5; L3.c=0;
+    L4.a=2;  L4.b=0;  L4.c=-8;
+
+    cross(L1,L2);
+    cross(L1,L3);
+    cross(L1,L4);
+
+    return 0;
 }
