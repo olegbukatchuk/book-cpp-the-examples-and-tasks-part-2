@@ -3552,32 +3552,59 @@ book_cpp_the_examples_and_tasks_part_2/fast:
 	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.s
 .PHONY : 6/6.9/main.cpp.s
 
-main.o: main.cpp.o
+7/7.1/main.o: 7/7.1/main.cpp.o
 
-.PHONY : main.o
+.PHONY : 7/7.1/main.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/main.cpp.o
-.PHONY : main.cpp.o
+7/7.1/main.cpp.o:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o
+.PHONY : 7/7.1/main.cpp.o
 
-main.i: main.cpp.i
+7/7.1/main.i: 7/7.1/main.cpp.i
 
-.PHONY : main.i
+.PHONY : 7/7.1/main.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/main.cpp.i
-.PHONY : main.cpp.i
+7/7.1/main.cpp.i:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.i
+.PHONY : 7/7.1/main.cpp.i
 
-main.s: main.cpp.s
+7/7.1/main.s: 7/7.1/main.cpp.s
 
-.PHONY : main.s
+.PHONY : 7/7.1/main.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/main.cpp.s
-.PHONY : main.cpp.s
+7/7.1/main.cpp.s:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.s
+.PHONY : 7/7.1/main.cpp.s
+
+7/7.2/main.o: 7/7.2/main.cpp.o
+
+.PHONY : 7/7.2/main.o
+
+# target to build an object file
+7/7.2/main.cpp.o:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o
+.PHONY : 7/7.2/main.cpp.o
+
+7/7.2/main.i: 7/7.2/main.cpp.i
+
+.PHONY : 7/7.2/main.i
+
+# target to preprocess a source file
+7/7.2/main.cpp.i:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.i
+.PHONY : 7/7.2/main.cpp.i
+
+7/7.2/main.s: 7/7.2/main.cpp.s
+
+.PHONY : 7/7.2/main.s
+
+# target to generate assembly for a file
+7/7.2/main.cpp.s:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.s
+.PHONY : 7/7.2/main.cpp.s
 
 # Help Target
 help:
@@ -3969,9 +3996,12 @@ help:
 	@echo "... 6/6.9/main.o"
 	@echo "... 6/6.9/main.i"
 	@echo "... 6/6.9/main.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... 7/7.1/main.o"
+	@echo "... 7/7.1/main.i"
+	@echo "... 7/7.1/main.s"
+	@echo "... 7/7.2/main.o"
+	@echo "... 7/7.2/main.i"
+	@echo "... 7/7.2/main.s"
 .PHONY : help
 
 
