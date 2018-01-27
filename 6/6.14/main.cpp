@@ -16,3 +16,6 @@ double dist(Point A,Point B) {
     return s;
 }
 
+int main() {
+    
+}
