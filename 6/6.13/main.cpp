@@ -16,3 +16,13 @@ Compl ComplExp(Compl z) {
     return tmp;
 }
 
+void show(Compl z) {
+    cout<<z.Re;
+
+    if(z.Im>=0) cout<<" + "<<z.Im<<"i\n";
+    else cout<<" - "<<-z.Im<<"i\n";
+}
+
+int main() {
+    
+}
