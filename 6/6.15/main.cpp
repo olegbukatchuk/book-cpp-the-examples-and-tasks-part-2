@@ -20,3 +20,7 @@ void cross(Line A,Line B) {
         cout<<"x0 = "<<x0<<" y0 = "<<y0<<endl;
     }
 }
+
+int main() {
+    
+}
