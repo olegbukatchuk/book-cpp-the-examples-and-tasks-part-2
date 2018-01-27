@@ -24,5 +24,14 @@ void show(Compl z) {
 }
 
 int main() {
-    
+    Compl A,B;
+
+    A.Re=1;
+    A.Im=-2;
+    B=ComplExp(A);
+
+    show(A);
+    show(B);
+
+    return 0;
 }
