@@ -2,3 +2,9 @@
 #include <cmath>
 using namespace std;
 
+struct Point {
+    double x;
+    double y;
+    double z;
+};
+
