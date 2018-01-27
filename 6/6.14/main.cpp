@@ -17,5 +17,12 @@ double dist(Point A,Point B) {
 }
 
 int main() {
-    
+    Point A,B;
+
+    A.x=1; A.y=1; A.z=1;
+    B.x=3; B.y=2; B.z=-1;
+
+    cout<<"Distance is "<<dist(A,B)<<endl;
+
+    return 0;
 }
