@@ -25,5 +25,10 @@ public:
 int main() {
     SimpleClass MyObj1, MyObj2;
 
+    MyObj1.m=1;
+    MyObj1.n=2;
+    MyObj2.m=8;
+    MyObj2.n=9;
+
     
 }
