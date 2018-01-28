@@ -23,5 +23,7 @@ public:
 };
 
 int main() {
+    SimpleClass MyObj1, MyObj2;
+
     
 }
