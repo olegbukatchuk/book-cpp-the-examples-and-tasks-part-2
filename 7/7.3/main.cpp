@@ -30,5 +30,6 @@ int main() {
     MyObj2.m=8;
     MyObj2.n=9;
 
+    cout<<"Total value for MyObj1 is "<<MyObj1.summa()<<endl;
     
 }
