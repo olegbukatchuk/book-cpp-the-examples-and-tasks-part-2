@@ -34,5 +34,10 @@ int main() {
     cout<<"Total value for MyObj2 is "<<MyObj2.summa()<<endl;
 
     MyObj1.mult(3);
-    o
+    MyObj2.mult(2);
+
+    MyObj1.show();
+    MyObj2.show();
+
+    return 0;
 }
