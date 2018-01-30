@@ -2,16 +2,16 @@
 using namespace std;
 
 class SimpleClass {
-public:
     int m;
     int n;
+public:
     void show();
+    void setnm(int i,int j);
 };
 
 int main() {
     SimpleClass obj;
-    obj.m=1;
-    obj.n=2;
+    obj.setnm(1,2);
     obj.show();
     return 0;
 }
@@ -19,4 +19,9 @@ int main() {
 void SimpleClass::show() {
     cout<<"m = "<<m<<endl;
     cout<<"n = "<<n<<endl;
+}
+
+void SimpleClass::setnm(int i,int j) {
+    m=i;
+    n=j;
 }

@@ -464,6 +464,9 @@
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.1/main.cpp">
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.10/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.2/main.cpp">
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
@@ -471,6 +474,21 @@
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.4/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.5/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.6/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.7/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.8/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp">
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/CMakeLists.txt">
