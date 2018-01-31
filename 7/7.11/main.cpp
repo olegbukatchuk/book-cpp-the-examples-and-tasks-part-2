@@ -23,3 +23,10 @@ public:
     }
 };
 
+int main() {
+    int i;
+    Bernoulli obj;
+    obj.p=0.3;
+
+    for()
+}
