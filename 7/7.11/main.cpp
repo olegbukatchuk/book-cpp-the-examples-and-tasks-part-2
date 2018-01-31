@@ -28,5 +28,8 @@ int main() {
     Bernoulli obj;
     obj.p=0.3;
 
-    for()
+    for(i=1;i<=9;i++) cout<<obj.test()<<" ";
+    cout<<endl;
+    for(i=1;i<=9;i++) cout<<i*100<<": "<<obj.test(i*100)<<endl;
+    return 0;
 }
