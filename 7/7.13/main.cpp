@@ -19,5 +19,10 @@ public:
         else return V0*cos(alpha)*T();
     }
 
-    
+    double y(double t) {
+        if(t<=T()) return V0*sin(alpha)*t-g*t*t/2;
+        else return 0;
+    }
+
+    double 
 };
