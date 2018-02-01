@@ -24,5 +24,7 @@ public:
         else return 0;
     }
 
-    double 
+    double Vx(double t) {
+        
+    }
 };
