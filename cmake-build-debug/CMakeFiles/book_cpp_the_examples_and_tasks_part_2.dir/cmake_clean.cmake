@@ -137,6 +137,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o"
   "book_cpp_the_examples_and_tasks_part_2.pdb"
   "book_cpp_the_examples_and_tasks_part_2"
 )
