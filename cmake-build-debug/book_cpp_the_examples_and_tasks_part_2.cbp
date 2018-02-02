@@ -500,6 +500,9 @@
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp">
 			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
 		</Unit>
+		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.1/main.cpp">
+			<Option target="book_cpp_the_examples_and_tasks_part_2"/>
+		</Unit>
 		<Unit filename="/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
