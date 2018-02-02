@@ -25,6 +25,28 @@ public:
     }
 
     double Vx(double t) {
-        
+        if(t<=T()) return V0*cos(alpha);
+        else return 0;
+    }
+
+    double Vy(double t) {
+        if(t<=T()) return V0*sin(alpha)-g*t;
+        else return 0;
+    }
+
+    void show(double t) {
+        printf("%s%f%s%9f%s%9f%s%9f%s%9f%s","t=",t,": x=",x(t)," y=",y(t)," Vx=",Vx(t)," Vy=",Vy(t),"\n");
     }
 };
+
+int main() {
+    int i;
+
+    Body obj;
+
+    obj.V0=10;
+    obj.alpha=pi/3;
+
+    for(i=0;i<10;i++) obj.show(0.2*i);
+    return 0;
+}
