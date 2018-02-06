@@ -9,9 +9,12 @@ public:
 int main() {
     MyClass obj;
     MyClass &ref=obj;
+
     obj.x=10;
     cout<<"x = "<<ref.x<<endl;
 
     ref.x=100;
-    cout<<"x = "
+    cout<<"x = "<<obj.x<<endl;
+
+    return 0;
 }
