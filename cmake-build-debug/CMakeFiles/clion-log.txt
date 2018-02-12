@@ -1,4 +1,4 @@
-"/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.3727.114/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2
+"/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.4548.31/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug

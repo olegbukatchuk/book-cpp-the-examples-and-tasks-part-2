@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.3727.114/CLion.app/Contents/bin/cmake/bin/cmake"
+CMAKE_COMMAND = "/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.4548.31/CLion.app/Contents/bin/cmake/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.3727.114/CLion.app/Contents/bin/cmake/bin/cmake" -E remove -f
+RM = "/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.4548.31/CLion.app/Contents/bin/cmake/bin/cmake" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tas
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.3727.114/CLion.app/Contents/bin/cmake/bin/cmake" -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.4548.31/CLion.app/Contents/bin/cmake/bin/cmake" -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.3727.114/CLion.app/Contents/bin/cmake/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+	"/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/173.4548.31/CLion.app/Contents/bin/cmake/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -4092,6 +4092,33 @@ book_cpp_the_examples_and_tasks_part_2/fast:
 	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.s
 .PHONY : 8/8.7/main.cpp.s
 
+8/8.8/main.o: 8/8.8/main.cpp.o
+
+.PHONY : 8/8.8/main.o
+
+# target to build an object file
+8/8.8/main.cpp.o:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o
+.PHONY : 8/8.8/main.cpp.o
+
+8/8.8/main.i: 8/8.8/main.cpp.i
+
+.PHONY : 8/8.8/main.i
+
+# target to preprocess a source file
+8/8.8/main.cpp.i:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.i
+.PHONY : 8/8.8/main.cpp.i
+
+8/8.8/main.s: 8/8.8/main.cpp.s
+
+.PHONY : 8/8.8/main.s
+
+# target to generate assembly for a file
+8/8.8/main.cpp.s:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.s
+.PHONY : 8/8.8/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -4542,6 +4569,9 @@ help:
 	@echo "... 8/8.7/main.o"
 	@echo "... 8/8.7/main.i"
 	@echo "... 8/8.7/main.s"
+	@echo "... 8/8.8/main.o"
+	@echo "... 8/8.8/main.i"
+	@echo "... 8/8.8/main.s"
 .PHONY : help
 
 
