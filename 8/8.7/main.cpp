@@ -19,5 +19,5 @@ double f2(MyClass &obj) {
 int main() {
     MyClass obj;
     obj.x=5;
-    
+
 }
