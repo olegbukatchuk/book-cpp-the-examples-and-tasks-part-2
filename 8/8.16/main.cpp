@@ -24,4 +24,7 @@ int main() {
     Complex z;
     cout<<"Re: ";
     cin>>z.Re;
+    cout<<"Im: ";
+    cin>>z.Im;
+    
 }
