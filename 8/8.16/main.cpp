@@ -26,5 +26,9 @@ int main() {
     cin>>z.Re;
     cout<<"Im: ";
     cin>>z.Im;
-    
+    cout<<"z=";
+    z.show();
+    cout<<"exp(z)=";
+    cExp(z).show();
+    return 0;
 }
