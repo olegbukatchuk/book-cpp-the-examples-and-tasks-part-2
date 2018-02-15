@@ -43,6 +43,12 @@ int main() {
     for(i=0;i<=n;i++) {
         obj.x[i]=i;
         obj.y[i]=i*(i-n/3)*(i-n+1)+0.001*(rand()%100-50);
-        cout<<obj.Lagr(x)<<endl;
-    } while()
+        cout<<obj.y[i]<<" ";
+    }
+
+    cout<<endl;
+
+    do {
+        cout<<"x = ";
+    }
 }
