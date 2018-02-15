@@ -27,6 +27,11 @@ public:
         double s=0;
         int i;
 
-        for(i=0;)
+        for(i=0;i<=n;i++) {
+            s+=y[i]*psi(i,z);
+        }
+
+        return s;
     }
 };
+
