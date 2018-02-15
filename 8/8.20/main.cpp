@@ -40,5 +40,11 @@ void show(Polynom obj,double x1,double x2) {
     cout<<endl<<"P(x): ";
 
     for(i=0;i<=5;i++)
-        printf("")
+        printf("%12f",obj.P(x1+i*h));
+
+    cout<<endl;
+}
+
+int main() {
+    
 }
