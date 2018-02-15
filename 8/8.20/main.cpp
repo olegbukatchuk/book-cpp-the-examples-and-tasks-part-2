@@ -13,8 +13,13 @@ public:
 
         for(i=0;i<=n;i++) {
             s+=a[i]*pow(x,i);
-
             return s;
         }
+    }
+
+    Polynom Deriv() {
+        Polynom tmp;
+        int i;
+        
     }
 };
