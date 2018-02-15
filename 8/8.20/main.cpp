@@ -36,5 +36,5 @@ void show(Polynom obj,double x1,double x2) {
 
     for(i=0;i<=5;i++)
         printf("%12f",x1+i*h);
-
+    
 }
