@@ -21,5 +21,13 @@ public:
         return T;
     }
 
-    
+    Matrix mSum(Matrix obj) {
+        Matrix T;
+        int i,j;
+
+        for(i=0;i<2;i++) {
+            for(j=0;j<2;j++)
+                T.a[i][j]=a[i][j]+obj.a[i][j];
+        }
+    }
 };
