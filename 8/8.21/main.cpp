@@ -14,8 +14,12 @@ public:
         for(i=0;i<2;i++) {
             for(j=0;j<2;j++) {
                 T.a[i][j]=0;
-                
+                for(k=0;k<2;k++)
+                    T.a[i][j]+=a[i][k]*obj.a[k][j];
             }
         }
+        return T;
     }
+
+    
 };
