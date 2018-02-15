@@ -38,4 +38,5 @@ public:
 int main() {
     int i;
     double x;
+    Interpol obj;
 }
