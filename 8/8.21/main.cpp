@@ -75,7 +75,7 @@ int main() {
     A.a[0][1]=-1;
     A.a[1][0]=2;
     A.a[1][1]=1;
-    A.mSum();
+    A.mShow();
     cout<<endl;
     mExp(A).mShow();
 
