@@ -48,3 +48,17 @@ public:
     }
 };
 
+Matrix mExp(Matrix obj) {
+    int i;
+
+    Matrix E,T;
+
+    E.a[0][0]=1;
+    E.a[1][1]=1;
+    E.a[0][1]=0;
+    E.a[1][0]=0;
+
+    T=E;
+
+    for()
+}
