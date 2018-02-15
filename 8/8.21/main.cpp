@@ -60,5 +60,15 @@ Matrix mExp(Matrix obj) {
 
     T=E;
 
-    for()
+    for(i=1;i<=N;i++) {
+        T=T.mult(obj);
+        T=T.div(i);
+        E=E.mSum(T);
+    }
+
+    return E;
+}
+
+int main() {
+    
 }
