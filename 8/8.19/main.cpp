@@ -39,4 +39,8 @@ int main() {
     int i;
     double x;
     Interpol obj;
+
+    for(i=0;i<=n;i++) {
+
+    }
 }
