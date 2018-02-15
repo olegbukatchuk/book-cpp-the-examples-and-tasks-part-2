@@ -42,7 +42,7 @@ public:
         return *this;
     }
 
-    void mSum() {
+    void mShow() {
         printf("%8f%s%8f%s",a[0][0]," ",a[0][1],"\n");
         printf("%8f%s%8f%s",a[1][0]," ",a[1][1],"\n");
     }
@@ -70,5 +70,14 @@ Matrix mExp(Matrix obj) {
 }
 
 int main() {
-    
+    Matrix A;
+    A.a[0][0]=1;
+    A.a[0][1]=-1;
+    A.a[1][0]=2;
+    A.a[1][1]=1;
+    A.mSum();
+    cout<<endl;
+    mExp(A).mShow();
+
+    return 0;
 }
