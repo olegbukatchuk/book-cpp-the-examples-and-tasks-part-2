@@ -48,4 +48,7 @@ void show(Polynom obj,double x1,double x2) {
 int main() {
     Polynom Q1,Q2,Q3;
     int i;
+
+    for(i=0;i<=n;i++)
+        Q1.a[i]=1;
 }
