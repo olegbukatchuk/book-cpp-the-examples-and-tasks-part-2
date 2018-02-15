@@ -24,4 +24,14 @@ int main() {
     Vector a,b,c;
 
     a.x=1;
+    a.y=0;
+    a.z=0;
+    b.x=0;
+    b.y=1;
+    b.z=0;
+    c=a.vprod(b);
+    c.show();
+    b.vprod(a).show();
+
+    return 0;
 }
