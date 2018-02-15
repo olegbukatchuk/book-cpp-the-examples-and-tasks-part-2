@@ -12,15 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f12cac5-f6d9-4a5d-a7c1-6cc2d21dbec2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/8/8.19/main.cpp" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/cmake_clean.cmake" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/progress.make" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/book_cpp_the_examples_and_tasks_part_2.cbp" />
+      <change beforePath="$PROJECT_DIR$/8/8.19/main.cpp" afterPath="$PROJECT_DIR$/8/8.19/main.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +28,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/8/8.19/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -215,12 +207,12 @@
       <workItem from="1515870862274" duration="139000" />
       <workItem from="1516018248006" duration="33085000" />
       <workItem from="1516987914305" duration="22786000" />
-      <workItem from="1518439625796" duration="9381000" />
+      <workItem from="1518439625796" duration="9424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109815000" />
+    <option name="totallyTimeSpent" value="109858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="0" width="1018" height="1050" extended-state="0" />
@@ -653,8 +645,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8/8.19/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
