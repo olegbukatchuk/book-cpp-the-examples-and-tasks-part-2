@@ -24,3 +24,31 @@ Numbers *make(int N) {
     return p1;
 }
 
+void showAll(Numbers *q) {
+    do {
+        cout<<q->n<<" : "<<q<<endl;
+        q=q->p;
+    } while(q!=NULL);
+}
+
+void deleteAll(Numbers *q) {
+    Numbers *q1;
+    do {
+        q1=q;
+        cout<<"deleted: "<<q<<endl;
+        q=q1->p;
+        delete q1;
+    } while (q!=NULL);
+}
+
+int main() {
+    int n;
+    Numbers *q;
+    cout<<"Enter n = ";
+    cin>>n;
+    q=make(n);
+    showAll(q);
+    deleteAll(q);
+
+    return 0;
+}
