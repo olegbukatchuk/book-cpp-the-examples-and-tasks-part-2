@@ -4146,6 +4146,33 @@ book_cpp_the_examples_and_tasks_part_2/fast:
 	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.s
 .PHONY : 8/8.17/main.cpp.s
 
+8/8.18/main.o: 8/8.18/main.cpp.o
+
+.PHONY : 8/8.18/main.o
+
+# target to build an object file
+8/8.18/main.cpp.o:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o
+.PHONY : 8/8.18/main.cpp.o
+
+8/8.18/main.i: 8/8.18/main.cpp.i
+
+.PHONY : 8/8.18/main.i
+
+# target to preprocess a source file
+8/8.18/main.cpp.i:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.i
+.PHONY : 8/8.18/main.cpp.i
+
+8/8.18/main.s: 8/8.18/main.cpp.s
+
+.PHONY : 8/8.18/main.s
+
+# target to generate assembly for a file
+8/8.18/main.cpp.s:
+	$(MAKE) -f CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.s
+.PHONY : 8/8.18/main.cpp.s
+
 8/8.2/main.o: 8/8.2/main.cpp.o
 
 .PHONY : 8/8.2/main.o
@@ -4818,6 +4845,9 @@ help:
 	@echo "... 8/8.17/main.o"
 	@echo "... 8/8.17/main.i"
 	@echo "... 8/8.17/main.s"
+	@echo "... 8/8.18/main.o"
+	@echo "... 8/8.18/main.i"
+	@echo "... 8/8.18/main.s"
 	@echo "... 8/8.2/main.o"
 	@echo "... 8/8.2/main.i"
 	@echo "... 8/8.2/main.s"
