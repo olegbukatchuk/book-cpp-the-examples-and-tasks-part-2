@@ -51,4 +51,13 @@ int main() {
 
     for(i=0;i<=n;i++)
         Q1.a[i]=1;
+
+    Q2=Q1.Deriv();
+    Q3=Q2.Deriv();
+
+    show(Q1,0,1);
+    show(Q2,0,1);
+    show(Q3,0,1);
+
+    return 0;
 }
