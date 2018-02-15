@@ -30,5 +30,7 @@ public:
 };
 
 void show(Polynom obj,double x1,double x2) {
-    double h=(x2-x1)/5;o
+    double h=(x2-x1)/5;
+    int i;
+    cout<<"x: ";
 }
