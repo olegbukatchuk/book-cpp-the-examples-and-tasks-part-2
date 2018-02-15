@@ -13,8 +13,8 @@ public:
 
         for(i=0;i<=n;i++) {
             s+=a[i]*pow(x,i);
-            return s;
         }
+        return s;
     }
 
     Polynom Deriv() {
@@ -24,8 +24,8 @@ public:
 
         for(i=n-1;i>=0;i--) {
             tmp.a[i]=a[i+1]*(i+1);
-            return tmp;
         }
+        return tmp;
     }
 };
 
@@ -33,4 +33,8 @@ void show(Polynom obj,double x1,double x2) {
     double h=(x2-x1)/5;
     int i;
     cout<<"x: ";
+
+    for(i=0;i<=5;i++)
+        printf("%12f",x1+i*h);
+
 }
