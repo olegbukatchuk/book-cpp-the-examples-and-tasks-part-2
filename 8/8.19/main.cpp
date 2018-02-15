@@ -50,5 +50,9 @@ int main() {
 
     do {
         cout<<"x = ";
-    }
+        cin>>x;
+        cout<<"L(x)="<<obj.Lagr(x)<<endl;
+    } while(x>=0&&x<=n);
+
+    return 0;
 }
