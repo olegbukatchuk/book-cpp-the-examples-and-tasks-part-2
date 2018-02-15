@@ -46,5 +46,6 @@ void show(Polynom obj,double x1,double x2) {
 }
 
 int main() {
-    
+    Polynom Q1,Q2,Q3;
+    int i;
 }
