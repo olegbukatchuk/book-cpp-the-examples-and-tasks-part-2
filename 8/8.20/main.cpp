@@ -29,3 +29,6 @@ public:
     }
 };
 
+void show(Polynom obj,double x1,double x2) {
+    o
+}
