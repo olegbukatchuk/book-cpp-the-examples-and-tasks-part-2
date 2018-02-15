@@ -29,5 +29,22 @@ public:
             for(j=0;j<2;j++)
                 T.a[i][j]=a[i][j]+obj.a[i][j];
         }
+        return T;
+    }
+
+    Matrix div(double x) {
+        int i,j;
+
+        for(i=0;i<2;j++) {
+            for(j=0;j<2;j++)
+                a[i][j]/=x;
+        }
+        return *this;
+    }
+
+    void mSum() {
+        printf("%8f%s%8f%s",a[0][0]," ",a[0][1],"\n");
+        printf("%8f%s%8f%s",a[1][0]," ",a[1][1],"\n");
     }
 };
+
