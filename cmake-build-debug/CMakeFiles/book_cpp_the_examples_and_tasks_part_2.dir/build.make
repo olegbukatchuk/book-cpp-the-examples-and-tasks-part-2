@@ -43,10 +43,10 @@ RM = "/Users/olegbukatchuk/Library/Application Support/JetBrains/Toolbox/apps/CL
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2
+CMAKE_SOURCE_DIR = /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o: ../1/1.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o: ../1/1.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o: ../1/1.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o: ../1/1.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o: ../1/1.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o: ../1/1.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o: ../1/1.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o: ../1/1.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o: ../1/1.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o: ../1/1.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o: ../1/1.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o.requires:
 
@@ -323,16 +323,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o: ../1/1.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o.requires:
 
@@ -347,16 +347,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o: ../1/1.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o.requires:
 
@@ -371,16 +371,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o: ../1/1.14/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.14/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.14/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o.requires:
 
@@ -395,16 +395,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.14/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o: ../1/1.15/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.15/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.15/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o.requires:
 
@@ -419,16 +419,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.15/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o: ../1/1.16/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.16/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.16/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o.requires:
 
@@ -443,16 +443,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.16/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o: ../1/1.17/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.17/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.17/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o.requires:
 
@@ -467,16 +467,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.17/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o: ../1/1.18/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.18/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.18/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/1/1.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/1/1.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o.requires:
 
@@ -491,16 +491,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/1/1.18/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o: ../2/2.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o.requires:
 
@@ -515,16 +515,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o: ../2/2.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o.requires:
 
@@ -539,16 +539,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o: ../2/2.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o.requires:
 
@@ -563,16 +563,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o: ../2/2.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o.requires:
 
@@ -587,16 +587,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o: ../2/2.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o.requires:
 
@@ -611,16 +611,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o: ../2/2.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o.requires:
 
@@ -635,16 +635,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o: ../2/2.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o.requires:
 
@@ -659,16 +659,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o: ../2/2.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o.requires:
 
@@ -683,16 +683,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o: ../2/2.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o.requires:
 
@@ -707,16 +707,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o: ../2/2.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o.requires:
 
@@ -731,16 +731,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o: ../2/2.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o.requires:
 
@@ -755,16 +755,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o: ../2/2.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o.requires:
 
@@ -779,16 +779,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o: ../2/2.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o.requires:
 
@@ -803,16 +803,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o: ../2/2.14/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.14/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.14/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o.requires:
 
@@ -827,16 +827,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.14/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o: ../2/2.15/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.15/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.15/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o.requires:
 
@@ -851,16 +851,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.15/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o: ../2/2.16/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.16/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.16/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o.requires:
 
@@ -875,16 +875,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.16/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o: ../2/2.17/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.17/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.17/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o.requires:
 
@@ -899,16 +899,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.17/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o: ../2/2.18/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.18/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.18/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o.requires:
 
@@ -923,16 +923,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.18/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o: ../2/2.19/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.19/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.19/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o.requires:
 
@@ -947,16 +947,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.19/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o: ../2/2.20/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.20/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.20/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o.requires:
 
@@ -971,16 +971,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.20/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o: ../2/2.21/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.21/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.21/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/2/2.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/2/2.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o.requires:
 
@@ -995,16 +995,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/2/2.21/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o: ../3/3.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o.requires:
 
@@ -1019,16 +1019,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o: ../3/3.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o.requires:
 
@@ -1043,16 +1043,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o: ../3/3.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o.requires:
 
@@ -1067,16 +1067,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o: ../3/3.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o.requires:
 
@@ -1091,16 +1091,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o: ../3/3.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o.requires:
 
@@ -1115,16 +1115,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o: ../3/3.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o.requires:
 
@@ -1139,16 +1139,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o: ../3/3.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o.requires:
 
@@ -1163,16 +1163,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o: ../3/3.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o.requires:
 
@@ -1187,16 +1187,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o: ../3/3.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o.requires:
 
@@ -1211,16 +1211,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o: ../3/3.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o.requires:
 
@@ -1235,16 +1235,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o: ../3/3.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o.requires:
 
@@ -1259,16 +1259,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o: ../3/3.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o.requires:
 
@@ -1283,16 +1283,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o: ../3/3.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o.requires:
 
@@ -1307,16 +1307,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o: ../3/3.14/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.14/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.14/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o.requires:
 
@@ -1331,16 +1331,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.14/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o: ../3/3.15/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.15/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.15/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o.requires:
 
@@ -1355,16 +1355,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.15/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o: ../3/3.16/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.16/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.16/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o.requires:
 
@@ -1379,16 +1379,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.16/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o: ../3/3.17/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.17/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.17/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o.requires:
 
@@ -1403,16 +1403,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.17/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o: ../3/3.18/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.18/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.18/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/3/3.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/3/3.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o.requires:
 
@@ -1427,16 +1427,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/3/3.18/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o: ../4/4.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o.requires:
 
@@ -1451,16 +1451,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o: ../4/4.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o.requires:
 
@@ -1475,16 +1475,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o: ../4/4.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o.requires:
 
@@ -1499,16 +1499,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o: ../4/4.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o.requires:
 
@@ -1523,16 +1523,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o: ../4/4.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o.requires:
 
@@ -1547,16 +1547,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o: ../4/4.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o.requires:
 
@@ -1571,16 +1571,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o: ../4/4.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o.requires:
 
@@ -1595,16 +1595,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o: ../4/4.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o.requires:
 
@@ -1619,16 +1619,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o: ../4/4.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o.requires:
 
@@ -1643,16 +1643,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o: ../4/4.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o.requires:
 
@@ -1667,16 +1667,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o: ../4/4.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o.requires:
 
@@ -1691,16 +1691,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o: ../4/4.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o.requires:
 
@@ -1715,16 +1715,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o: ../4/4.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o.requires:
 
@@ -1739,16 +1739,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o: ../4/4.14/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.14/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.14/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o.requires:
 
@@ -1763,16 +1763,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.14/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o: ../4/4.15/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.15/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.15/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o.requires:
 
@@ -1787,16 +1787,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.15/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o: ../4/4.16/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.16/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.16/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o.requires:
 
@@ -1811,16 +1811,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.16/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o: ../4/4.17/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.17/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.17/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o.requires:
 
@@ -1835,16 +1835,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.17/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o: ../4/4.18/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.18/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.18/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o.requires:
 
@@ -1859,16 +1859,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.18/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o: ../4/4.19/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.19/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.19/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o.requires:
 
@@ -1883,16 +1883,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.19/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o: ../4/4.20/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.20/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.20/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o.requires:
 
@@ -1907,16 +1907,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.20/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o: ../4/4.21/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.21/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.21/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o.requires:
 
@@ -1931,16 +1931,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.21/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o: ../4/4.22/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.22/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.22/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.22/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.22/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.22/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.22/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o.requires:
 
@@ -1955,16 +1955,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.22/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o: ../4/4.23/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.23/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.23/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.23/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.23/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.23/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.23/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o.requires:
 
@@ -1979,16 +1979,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.23/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o: ../4/4.24/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.24/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.24/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.24/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.24/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.24/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.24/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o.requires:
 
@@ -2003,16 +2003,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.24/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o: ../4/4.25/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.25/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.requires:
 
@@ -2027,16 +2027,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.25/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o: ../4/4.26/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.26/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.26/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.26/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.26/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.26/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.26/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o.requires:
 
@@ -2051,16 +2051,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.26/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o: ../4/4.27/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.27/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.27/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.27/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.27/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.27/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.27/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o.requires:
 
@@ -2075,16 +2075,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.27/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o: ../4/4.28/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.28/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.28/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.28/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.28/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.28/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.28/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o.requires:
 
@@ -2099,16 +2099,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.28/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o: ../4/4.29/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.29/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.29/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.29/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.29/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.29/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.29/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o.requires:
 
@@ -2123,16 +2123,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.29/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o: ../4/4.30/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.30/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.30/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.30/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.30/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.30/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.30/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o.requires:
 
@@ -2147,16 +2147,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.30/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o: ../4/4.31/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.31/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.31/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.31/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.31/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.31/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.31/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o.requires:
 
@@ -2171,16 +2171,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.31/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o: ../4/4.32/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.32/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.32/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.32/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.32/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.32/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.32/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o.requires:
 
@@ -2195,16 +2195,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.32/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o: ../4/4.33/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.33/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.33/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.33/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.33/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/4/4.33/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/4/4.33/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o.requires:
 
@@ -2219,16 +2219,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/4/4.33/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o: ../5/5.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o.requires:
 
@@ -2243,16 +2243,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o: ../5/5.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o.requires:
 
@@ -2267,16 +2267,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o: ../5/5.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o.requires:
 
@@ -2291,16 +2291,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o: ../5/5.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o.requires:
 
@@ -2315,16 +2315,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o: ../5/5.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o.requires:
 
@@ -2339,16 +2339,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o: ../5/5.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o.requires:
 
@@ -2363,16 +2363,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o: ../5/5.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o.requires:
 
@@ -2387,16 +2387,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o: ../5/5.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o.requires:
 
@@ -2411,16 +2411,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o: ../5/5.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o.requires:
 
@@ -2435,16 +2435,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o: ../5/5.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o.requires:
 
@@ -2459,16 +2459,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o: ../5/5.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o.requires:
 
@@ -2483,16 +2483,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o: ../5/5.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o.requires:
 
@@ -2507,16 +2507,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o: ../5/5.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o.requires:
 
@@ -2531,16 +2531,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o: ../5/5.14/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.14/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.14/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o.requires:
 
@@ -2555,16 +2555,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.14/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o: ../5/5.15/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.15/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.15/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o.requires:
 
@@ -2579,16 +2579,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.15/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o: ../5/5.16/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.16/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.16/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o.requires:
 
@@ -2603,16 +2603,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.16/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o: ../5/5.17/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.17/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.17/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o.requires:
 
@@ -2627,16 +2627,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.17/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o: ../5/5.18/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.18/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.18/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o.requires:
 
@@ -2651,16 +2651,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.18/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o: ../5/5.19/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.19/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.19/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o.requires:
 
@@ -2675,16 +2675,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.19/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o: ../5/5.20/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.20/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.20/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o.requires:
 
@@ -2699,16 +2699,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.20/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o: ../5/5.21/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.21/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.21/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/5/5.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/5/5.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o.requires:
 
@@ -2723,16 +2723,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/5/5.21/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o: ../6/6.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o.requires:
 
@@ -2747,16 +2747,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o: ../6/6.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o.requires:
 
@@ -2771,16 +2771,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o: ../6/6.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o.requires:
 
@@ -2795,16 +2795,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o: ../6/6.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o.requires:
 
@@ -2819,16 +2819,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o: ../6/6.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o.requires:
 
@@ -2843,16 +2843,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o: ../6/6.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o.requires:
 
@@ -2867,16 +2867,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o: ../6/6.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o.requires:
 
@@ -2891,16 +2891,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o: ../6/6.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o.requires:
 
@@ -2915,16 +2915,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o: ../6/6.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o.requires:
 
@@ -2939,16 +2939,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o: ../6/6.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o.requires:
 
@@ -2963,16 +2963,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o: ../6/6.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o.requires:
 
@@ -2987,16 +2987,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o: ../6/6.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o.requires:
 
@@ -3011,16 +3011,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o: ../6/6.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o.requires:
 
@@ -3035,16 +3035,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o: ../6/6.14/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.14/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.14/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o.requires:
 
@@ -3059,16 +3059,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.14/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o: ../6/6.15/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.15/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.15/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o.requires:
 
@@ -3083,16 +3083,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.15/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o: ../6/6.16/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.16/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.16/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/6/6.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/6/6.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o.requires:
 
@@ -3107,16 +3107,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/6/6.16/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o: ../7/7.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o.requires:
 
@@ -3131,16 +3131,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o: ../7/7.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o.requires:
 
@@ -3155,16 +3155,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o: ../7/7.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o.requires:
 
@@ -3179,16 +3179,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o: ../7/7.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o.requires:
 
@@ -3203,16 +3203,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o: ../7/7.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o.requires:
 
@@ -3227,16 +3227,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o: ../7/7.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o.requires:
 
@@ -3251,16 +3251,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o: ../7/7.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o.requires:
 
@@ -3275,16 +3275,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o: ../7/7.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o.requires:
 
@@ -3299,16 +3299,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o: ../7/7.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o.requires:
 
@@ -3323,16 +3323,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o: ../7/7.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o.requires:
 
@@ -3347,16 +3347,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o: ../7/7.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o.requires:
 
@@ -3371,16 +3371,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o: ../7/7.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o.requires:
 
@@ -3395,16 +3395,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o: ../7/7.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/7/7.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/7/7.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o.requires:
 
@@ -3419,16 +3419,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/7/7.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o: ../8/8.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o.requires:
 
@@ -3443,16 +3443,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.1/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o: ../8/8.2/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.2/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.2/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.2/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o.requires:
 
@@ -3467,16 +3467,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.2/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o: ../8/8.3/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.3/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.3/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.3/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.3/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o.requires:
 
@@ -3491,16 +3491,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.3/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o: ../8/8.4/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.4/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.4/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.4/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o.requires:
 
@@ -3515,16 +3515,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.4/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o: ../8/8.5/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.5/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.5/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.5/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.5/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o.requires:
 
@@ -3539,16 +3539,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.5/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o: ../8/8.6/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.6/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.6/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.6/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.6/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o.requires:
 
@@ -3563,16 +3563,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.6/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o: ../8/8.7/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.7/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.7/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.7/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.7/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o.requires:
 
@@ -3587,16 +3587,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.7/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o: ../8/8.8/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.8/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.8/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.8/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.8/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o.requires:
 
@@ -3611,16 +3611,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.8/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o: ../8/8.9/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.9/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.9/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.9/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.9/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o.requires:
 
@@ -3635,16 +3635,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.9/main.cpp.o.provides.
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o: ../8/8.10/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.10/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.10/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.10/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.10/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o.requires:
 
@@ -3659,16 +3659,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.10/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o: ../8/8.11/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.11/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.11/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.11/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.11/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o.requires:
 
@@ -3683,16 +3683,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.11/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o: ../8/8.12/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.12/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.12/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.12/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.12/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o.requires:
 
@@ -3707,16 +3707,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.12/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o: ../8/8.13/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.13/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.13/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.13/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.13/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o.requires:
 
@@ -3731,16 +3731,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.13/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o: ../8/8.14/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.14/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.14/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.14/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.14/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o.requires:
 
@@ -3755,16 +3755,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.14/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o: ../8/8.15/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.15/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.15/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.15/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.15/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o.requires:
 
@@ -3779,16 +3779,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.15/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o: ../8/8.16/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.16/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.16/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.16/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.16/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o.requires:
 
@@ -3803,16 +3803,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.16/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o: ../8/8.17/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.17/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.17/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.17/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.17/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o.requires:
 
@@ -3827,16 +3827,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.17/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o: ../8/8.18/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.18/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.18/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.18/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.18/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o.requires:
 
@@ -3851,16 +3851,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.18/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o: ../8/8.19/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.19/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.19/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.19/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.19/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o.requires:
 
@@ -3875,16 +3875,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.19/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o: ../8/8.20/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.20/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.20/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.20/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.20/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o.requires:
 
@@ -3899,16 +3899,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.20/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o: ../8/8.21/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.21/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.21/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.21/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/8/8.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/8/8.21/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o.requires:
 
@@ -3923,16 +3923,16 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/8/8.21/main.cpp.o.provides
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/flags.make
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o: ../9/9.1/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/9/9.1/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building CXX object CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o -c /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/9/9.1/main.cpp
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/9/9.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/9/9.1/main.cpp > CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.i
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/9/9.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/9/9.1/main.cpp -o CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.s
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o.requires:
 
@@ -4277,7 +4277,7 @@ book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tas
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.1/main.cpp.o
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/build.make
 book_cpp_the_examples_and_tasks_part_2: CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Linking CXX executable book_cpp_the_examples_and_tasks_part_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Linking CXX executable book_cpp_the_examples_and_tasks_part_2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -4455,6 +4455,6 @@ CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/clean:
 .PHONY : CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/clean
 
 CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/depend:
-	cd /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2 /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2 /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug /Users/olegbukatchuk/Desktop/io/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2 /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2 /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug /Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/depend
 
