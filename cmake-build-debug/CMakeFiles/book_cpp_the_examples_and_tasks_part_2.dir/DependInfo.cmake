@@ -169,6 +169,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/9/9.2/main.cpp" "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.2/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/9/9.3/main.cpp" "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.3/main.cpp.o"
   "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/9/9.4/main.cpp" "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.4/main.cpp.o"
+  "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/9/9.5/main.cpp" "/Users/olegbukatchuk/Desktop/github.com/book-cpp-the-examples-and-tasks-part-2/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/9/9.5/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
