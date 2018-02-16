@@ -24,5 +24,17 @@ public:
 };
 
 int main() {
-    
+    Demo a(1);
+    Demo b=Demo(2);
+
+    a.getn();
+    b.getn();
+    a.setn(-1);
+    a.getn();
+    a=b;
+    a.getn();
+    a=Demo(0);
+    a.getn();
+
+    return 0;
 }
