@@ -17,5 +17,8 @@ public:
 };
 
 int main() {
-    
+    MyClass obj(1,2);
+    obj.show();
+
+    return 0;
 }
