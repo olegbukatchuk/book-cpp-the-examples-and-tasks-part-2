@@ -20,3 +20,18 @@ public:
     }
 };
 
+int main() {
+    int n,i;
+    double x,s=0;
+    cout<<"enter n= ";
+    cin>>n;
+    cout<<"enter x= ";
+    cin>>x;
+    MyExp obj(n,x);
+
+    for(i=0;i<=n;i++)
+        s+=obj.p[i];
+    cout<<"exp("<<x<<")= "<<s<<endl;
+
+    return 0;
+}
