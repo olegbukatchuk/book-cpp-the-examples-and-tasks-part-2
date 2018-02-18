@@ -36,5 +36,10 @@ public:
 };
 
 int main() {
-    
+    double x=1;
+    MyExp obj(x);
+    cout<<"x = "<<obj.get()<<endl;
+    cout<<"exp(x) = "<<obj.get(0)<<endl;
+
+    return 0;
 }
