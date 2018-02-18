@@ -5,7 +5,7 @@ class Inner {
 public:
     int n;
 
-    Inener() {
+    Inner() {
         n=0;
         cout<<"Inner-object created with n="<<n<<endl;
     }
