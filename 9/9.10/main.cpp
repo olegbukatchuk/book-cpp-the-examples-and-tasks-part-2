@@ -36,3 +36,12 @@ public:
     }
 };
 
+int main() {
+    int i=10,j=20,k=30;
+    Outer a(i);
+    Outer b(j,k);
+    cout<<"a.m: "<<a.m<<" a.obj.n: "<<a.obj.n<<endl;
+    cout<<"b.m: "<<b.m<<" b.obj.n: "<<b.obj.n<<endl;
+
+    return 0;
+}
