@@ -32,3 +32,12 @@ public:
     }
 };
 
+int main() {
+    Outer a;
+    a.obj[n/2].show();
+    cout<<endl;
+    a.obj[n-1].show();
+    cout<<endl;
+
+    return 0;
+}
