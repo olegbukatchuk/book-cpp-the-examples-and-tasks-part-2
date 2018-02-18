@@ -11,6 +11,7 @@ public:
     void show() {
         if(m!=1)
             (this-1)->show();
+        cout<<number<<" ";
     }
 };
 
