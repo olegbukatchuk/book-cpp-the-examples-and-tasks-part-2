@@ -74,5 +74,13 @@ MComp operator!(MComp &x) {
     return x;
 }
 
-
+int main() {
+    MComp a,b,c;
+    double x=1.5,y=2.5;
+    a.Re=1;
+    a.Im=2;
+    b.Re=2;
+    b.Im=3;
+    
+}
 
