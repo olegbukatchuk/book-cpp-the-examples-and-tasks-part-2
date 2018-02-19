@@ -54,3 +54,8 @@ MComp operator++(MComp &x) {
     return x;
 }
 
+MComp operator++(MComp &x,int unused) {
+    x.Im++;
+    return x;
+}
+
