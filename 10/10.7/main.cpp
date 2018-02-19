@@ -59,3 +59,20 @@ MComp operator++(MComp &x,int unused) {
     return x;
 }
 
+MComp operator--(MComp &x) {
+    x.Re--;
+    return x;
+}
+
+MComp operator--(MComp &x,int unused) {
+    x.Im--;
+    return x;
+}
+
+MComp operator!(MComp &x) {
+    x.Im*=-1;
+    return x;
+}
+
+
+
