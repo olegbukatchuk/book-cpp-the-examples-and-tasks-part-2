@@ -82,7 +82,7 @@ int main() {
     b.Re=2;
     b.Im=3;
     cout<<"******************";
-    cout<<"\na.Re = "a.Re<<"\na.Im = "<<a.Im<<"\n";
+    cout<<"\na.Re = "<<a.Re<<"\na.Im = "<<a.Im<<"\n";
     cout<<"******************";
     cout<<"\nb.Re = "<<b.Re<<"\nb.Im = "<<b.Im<<"\n";
     cout<<"******************";
@@ -131,7 +131,7 @@ int main() {
     cout<<"\n!a: \n";
     cout<<"a.Re = "<<a.Re<<"\na.Im = "<<a.Im<<"\n";
     cout<<"******************\n";
-    
+
     return 0;
 }
 
