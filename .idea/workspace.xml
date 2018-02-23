@@ -12,10 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f12cac5-f6d9-4a5d-a7c1-6cc2d21dbec2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/12/12.10/main.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12/12.7/main.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12/12.8/main.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/12/12.9/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12/12.11/main.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/12/12.12/main.cpp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/DependInfo.cmake" />
@@ -44,9 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/9/9.4/main.cpp" />
-        <option value="$PROJECT_DIR$/9/9.5/main.cpp" />
-        <option value="$PROJECT_DIR$/9/9.6/main.cpp" />
         <option value="$PROJECT_DIR$/9/9.7/main.cpp" />
         <option value="$PROJECT_DIR$/9/9.8/main.cpp" />
         <option value="$PROJECT_DIR$/9/9.9/main.cpp" />
@@ -95,6 +90,9 @@
         <option value="$PROJECT_DIR$/12/12.8/main.cpp" />
         <option value="$PROJECT_DIR$/12/12.9/main.cpp" />
         <option value="$PROJECT_DIR$/12/12.10/main.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/12/12.11/main.cpp" />
+        <option value="$PROJECT_DIR$/12/12.12/main.cpp" />
       </list>
     </option>
   </component>
@@ -204,12 +202,12 @@
       <workItem from="1518765623090" duration="13144000" />
       <workItem from="1519152441526" duration="432000" />
       <workItem from="1519155594401" duration="242000" />
-      <workItem from="1519160417472" duration="8474000" />
+      <workItem from="1519160417472" duration="9070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137300000" />
+    <option name="totallyTimeSpent" value="137896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="662" y="0" width="1018" height="1050" extended-state="0" />
@@ -252,27 +250,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/9/9.4/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9/9.5/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9/9.6/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9/9.7/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -675,7 +652,35 @@
         <state relative-caret-position="380">
           <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
-            <element signature="e#625#634#0" expanded="true" />
+            <element signature="e#625#634#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/12.11/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <element signature="e#469#478#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/12.12/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="e#69#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
