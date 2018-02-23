@@ -199,6 +199,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.10/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.11/main.cpp.o"
   "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.12/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.13/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.14/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.15/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.16/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/11/11.17/main.cpp.o"
+  "CMakeFiles/book_cpp_the_examples_and_tasks_part_2.dir/12/12.1/main.cpp.o"
   "book_cpp_the_examples_and_tasks_part_2.pdb"
   "book_cpp_the_examples_and_tasks_part_2"
 )
